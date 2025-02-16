@@ -1,7 +1,6 @@
 # Simulation-Health-Disease-ECG-Simulator
 
 https://github.com/user-attachments/assets/be76c6c8-8e07-4409-aec8-13c989e7efc3
-https://github.com/user-attachments/assets/30565133-ca85-485f-aa49-563b9c9269d8
 
 Heart Disease ECG Simulation Model
 
