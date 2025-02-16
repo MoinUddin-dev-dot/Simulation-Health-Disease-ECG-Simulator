@@ -47,3 +47,7 @@ Performance Optimization: Used Combine framework for real-time UI updates.
 Data Storage: Implemented Core Data for efficient record management.
 
 State Management: Optimized SwiftUI views for smooth performance.
+
+
+https://github.com/user-attachments/assets/30565133-ca85-485f-aa49-563b9c9269d8
+
